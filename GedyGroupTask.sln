@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit", "MaxProfit\MaxProfit.csproj", "{B652648E-7EF7-4F03-A4AC-5F19A47ABCF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit.Tests", "MaxProfit.Tests\MaxProfit.Tests.csproj", "{B1F26631-AA92-4C9A-92C0-D199F9BCD8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B652648E-7EF7-4F03-A4AC-5F19A47ABCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B652648E-7EF7-4F03-A4AC-5F19A47ABCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B652648E-7EF7-4F03-A4AC-5F19A47ABCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B652648E-7EF7-4F03-A4AC-5F19A47ABCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F26631-AA92-4C9A-92C0-D199F9BCD8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F26631-AA92-4C9A-92C0-D199F9BCD8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F26631-AA92-4C9A-92C0-D199F9BCD8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F26631-AA92-4C9A-92C0-D199F9BCD8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F915AC9B-AB24-4134-BC76-02694FEDAE6F}
+	EndGlobalSection
+EndGlobal
